@@ -519,3 +519,4 @@ window.App.closeModal = closeModal;
     escHTML
   };
 })();
+window.UI = UI;
